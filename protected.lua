@@ -9,3 +9,4 @@ if _G.key == "whitelist_397-252-480-173" then
   Duration = 5
 })
 end
+end
